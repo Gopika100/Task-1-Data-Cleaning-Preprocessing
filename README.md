@@ -46,7 +46,6 @@ The following preprocessing steps were performed:
 | File | Description |
 |---|---|
 | `Task_1_Data_Cleaning_Preprocessing.ipynb` | Google Colab notebook containing the complete Python code and analysis |
-| `cleaned_customer_personality.csv` | Final cleaned dataset |
 | `README.md` | Project documentation |
 
 ## ✅ Final Validation
